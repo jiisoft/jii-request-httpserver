@@ -27,7 +27,8 @@
     "require-all": "0.0.8",
     "request": "^2.48.0",
     "body-parser": "^1.11.0",
-    "multer": "^0.1.7"
+    "multer": "^0.1.7",
+    "jii-urlmanager": "^0.4.3"
   },
   "devDependencies": {
     "nodeunit": "^0.9.0"
